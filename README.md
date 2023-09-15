@@ -3,6 +3,9 @@
 [<img alt="alt_text"  src="https://i.imgur.com/yRsZ96F.png" />](https://discord.gg/CUXK7CWx3P)
 
 
+██████╗ ██╗  ██╗ ██████╗ ███████╗███╗   ██╗██╗██╗  ██╗    ███████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗ ███████╗
+
+
 <h1> PHOENIX STUDIOS </h1>   
 
 [Discord](https://discord.gg/CUXK7CWx3P) <br>
