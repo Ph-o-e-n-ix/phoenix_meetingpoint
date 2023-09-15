@@ -17,4 +17,4 @@ I want to relaese it now and i hope ur guys enjoying.
 
 If you use **GABZ PILLBOX** make sure you replace the 2 Files in the stream folder with "gabz-pillbox-fix" folder.
 
-If you have any questions, feel free to ask or join my Discord: 
+If you have any questions, feel free to ask or join my Discord
