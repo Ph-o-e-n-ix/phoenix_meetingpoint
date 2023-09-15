@@ -5,10 +5,10 @@
 
 <h1> PHOENIX STUDIOS </h1>   
 
-[Discord](https://discord.gg/CUXK7CWx3P) \n
-[Github](https://github.com/Ph-o-e-n-ix) \n
-[YouTube](https://www.youtube.com/channel/UCmzq_yBc6m_Hs68l_YKq58A) \n
-[CFX](https://forum.cfx.re/u/phoenixstudios) \n
+[Discord](https://discord.gg/CUXK7CWx3P) <br>
+[Github](https://github.com/Ph-o-e-n-ix) <br>
+[YouTube](https://www.youtube.com/channel/UCmzq_yBc6m_Hs68l_YKq58A) <br>
+[CFX](https://forum.cfx.re/u/phoenixstudios) <br>
 
 Hey, this is my Map Meetingpoint that i created a time ago. 
 I want to relaese it now and i hope ur guys enjoying.
